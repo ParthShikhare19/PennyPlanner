@@ -1,1 +1,2 @@
-# PennyPlanner_MiniProject_Sem3
+
+PennyPlanner is a desktop-based home budget management application designed to simplify financial planning and tracking. Built using JavaFX and MySQL, it offers features such as expense tracking, goal management, detailed analysis with charts, and user-specific settings. Penny Planner helps users stay on top of their finances by providing tools to record, analyze, and optimize their spending habits effectively.
